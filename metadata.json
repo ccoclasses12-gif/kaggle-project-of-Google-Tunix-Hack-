@@ -1,0 +1,5 @@
+{
+  "name": "TUNIX Reasoning Lab",
+  "description": "An interactive AI transparency workbench that visualizes machine learning reasoning processes, comparing baseline models against reasoning-enabled architectures to improve trust and interpretability.",
+  "requestFramePermissions": []
+}
